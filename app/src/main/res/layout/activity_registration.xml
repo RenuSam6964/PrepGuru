@@ -24,7 +24,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="24dp"
         android:ems="10"
-        android:hint="Enter EmailAddress"
+        android:hint="Enter Email"
         android:inputType="textEmailAddress"
         android:textSize="20sp"
         android:textStyle="bold"
